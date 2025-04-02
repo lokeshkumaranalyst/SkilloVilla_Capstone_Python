@@ -1,4 +1,4 @@
-# SkilloVilla_Capstone_Python
+# HR Management Python Project
 Skillovilla Capstone Python Projects
 
 ##Problems Task 1 There are three different tables as given above. Please make three dataframe in python and save them as three .csv files. From Task 2 to Task 10, use the saved .csv files only.
